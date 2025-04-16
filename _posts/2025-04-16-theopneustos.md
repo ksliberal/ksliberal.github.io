@@ -17,7 +17,7 @@ From <a href="https://www.blueletterbible.org/nkjv/2ti/3/16/t_conc_1128016" targ
 
 *All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness*
 
-### Etymology 
+**Etymology**
 
 - **θεός** (theos) - God
 - **πνέω** (pneo) - to breathe/blow
