@@ -5,6 +5,7 @@ date: 2025-04-16 02:44:40 -0500
 categories: biblical-analysis
 tags: theology greek-studies
 image: /assets/images/godbreathedmodern-trans.png
+thumbnail: /assets/images/godbreathedmodern-thumb.png
 description: "An exploration of the etymology and theological significance of the word θεόπνευστος (theopneustos)."
 subtitle: "An exploration of the etymology and theological significance of the word θεόπνευστος (theopneustos) in 2 Timothy 3:16."
 ---

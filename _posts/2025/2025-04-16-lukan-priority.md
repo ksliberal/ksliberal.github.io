@@ -4,6 +4,7 @@ title: "Lukan Priority: A Comprehensive Analysis"
 date: 2025-04-16 17:28:12 -0500
 categories: biblical-analysis
 image: /assets/images/luke.png
+thumbnail: /assets/images/luke-thumb.png
 subtitle: "A critical examination of the Synoptic Gospels and the evidence supporting Lukan Priority."
 description: "An in-depth analysis of the Synoptic Gospels, challenging the dominant Markan Priority theory."
 ---

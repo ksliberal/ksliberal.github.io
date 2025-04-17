@@ -4,6 +4,9 @@ date: 2025-04-17 11:28:12 -0500
 categories: bliclical-analysis
 tags: [synoptic, q, bible]
 image: /assets/images/synoptic-stained.png
+thumbnail: /assets/images/synoptic-stained-thumb.png
+description: "An analysis of the Synoptic Problem."
+subtitle: "An exploration of the Synoptic Problem, challenging the dominant Markan Priority theory."
 ---
 
 The Synoptic Problem stands as one of the most enduring and complex puzzles in biblical scholarship, described by leading scholar Mark Goodacre as "possibly the greatest literary enigma in history"[^3]. This examination explores the historical development of this fascinating biblical conundrum, from ancient observations to modern scholarly debate, analyzing the various proposed solutions and their implications for our understanding of the New Testament.
