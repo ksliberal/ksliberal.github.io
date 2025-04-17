@@ -3,6 +3,7 @@ layout: post
 title: "Lukan Priority: A Comprehensive Analysis"
 date: 2025-04-16 17:28:12 -0500
 categories: biblical-analysis
+image: /assets/images/luke.png
 ---
 
 <div style="text-align: center; margin: 20px 0;">

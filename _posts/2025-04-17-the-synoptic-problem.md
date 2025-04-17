@@ -3,6 +3,7 @@ title: "The Synoptic Problem"
 date: 2025-04-17 11:28:12 -0500
 categories: bliclical-analysis
 tags: [synoptic, q, bible]
+image: /assets/images/synoptic-stained.png
 ---
 <div style="text-align: center; margin: 5px 0;">
   <img src="/assets/images/synoptic-stained.png" alt="AI Generated image of Stained Glass Featuring the synoptic gospel authors." style="max-width: 100%; height: auto;">

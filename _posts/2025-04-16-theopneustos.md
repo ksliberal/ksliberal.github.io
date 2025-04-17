@@ -4,6 +4,7 @@ title: "θεόπνευστος : The Divine Breath in Scripture"
 date: 2025-04-16 02:44:40 -0500
 categories: biblical-analysis
 tags: theology greek-studies
+image: /assets/images/godbreathedmodern-trans.png
 ---
 
 <div style="text-align: center; margin: 20px 0;">
