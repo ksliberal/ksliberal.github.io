@@ -112,7 +112,7 @@ comments:
   provider: disqus
   # The provider options are as follows:
   disqus:
-    shortname: the-kansas-liberal 
+    shortname: thekansasliberal
   utterances:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
