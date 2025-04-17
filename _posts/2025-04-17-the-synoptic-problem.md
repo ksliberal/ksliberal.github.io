@@ -5,7 +5,7 @@ categories: bliclical-analysis
 tags: [synoptic, q, bible]
 ---
 <div style="text-align: center; margin: 5px 0;">
-  <img src="/assets/images/synoptic.png" alt="AI Generated image of Stained Glass Featuring the synoptic gospel authors." style="max-width: 100%; height: auto;">
+  <img src="/assets/images/synoptic-stained.png" alt="AI Generated image of Stained Glass Featuring the synoptic gospel authors." style="max-width: 100%; height: auto;">
 </div>
 The Synoptic Problem stands as one of the most enduring and complex puzzles in biblical scholarship, described by leading scholar Mark Goodacre as "possibly the greatest literary enigma in history"[^3]. This examination explores the historical development of this fascinating biblical conundrum, from ancient observations to modern scholarly debate, analyzing the various proposed solutions and their implications for our understanding of the New Testament.
 
