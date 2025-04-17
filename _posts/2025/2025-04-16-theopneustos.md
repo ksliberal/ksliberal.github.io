@@ -5,11 +5,9 @@ date: 2025-04-16 02:44:40 -0500
 categories: biblical-analysis
 tags: theology greek-studies
 image: /assets/images/godbreathedmodern-trans.png
+description: "An exploration of the etymology and theological significance of the word θεόπνευστος (theopneustos)."
+subtitle: "An exploration of the etymology and theological significance of the word θεόπνευστος (theopneustos) in 2 Timothy 3:16."
 ---
-
-<div style="text-align: center; margin: 20px 0;">
-  <img src="/assets/images/godbreathedmodern-trans.png" alt="Modern iconographic style painting depicting the divine inspiration of Scripture" style="max-width: 100%; height: auto;">
-</div>
 
 
 From <a href="https://www.blueletterbible.org/nkjv/2ti/3/16/t_conc_1128016" target="_blank">2 Timothy 3:16</a> (NKJV Greek-English Interlinear):

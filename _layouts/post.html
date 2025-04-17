@@ -16,6 +16,7 @@ script_includes:
 
 <article class="px-1" data-toc="{{ enable_toc }}">
   <header>
+       
     <h1 data-toc-skip>{{ page.title }}</h1>
     {% if page.description %}
       <p class="post-desc fw-light mb-4">{{ page.description }}</p>
@@ -35,6 +36,8 @@ script_includes:
           {% include datetime.html date=page.last_modified_at tooltip=true lang=lang %}
         </span>
       {% endif %}
+
+
 
       <div class="d-flex justify-content-between">
         <!-- author(s) -->
@@ -106,6 +109,21 @@ script_includes:
   {% endif %}
 
   <div class="content">
+   {% if page.image %}
+        {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
+        {% capture class %}class="preview-img{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
+        {% capture alt %}alt="{{ page.image.alt | xml_escape | default: "Preview Image" }}"{% endcapture %}
+        {% if page.image.lqip %}
+          {%- capture lqip -%}lqip="{{ page.image.lqip }}"{%- endcapture -%}
+        {% endif %}
+<div style="text-align: center; margin: 0px 0;">
+  <img {{ src }} {{ alt }} {{ lqip }}>
+            {%- if page.image.alt -%}
+            <figcaption class="text-center pt-2 pb-2">{{ page.image.alt }}</figcaption>
+          {%- endif -%}
+</div>
+
+      {% endif %}
     {{ content }}
   </div>
 
