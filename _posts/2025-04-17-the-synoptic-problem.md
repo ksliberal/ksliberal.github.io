@@ -104,7 +104,7 @@ The Synoptic Problem remains a vibrant field of scholarly inquiry. While no sing
 [^7]: [CMV: Papias does not speak of the canonical gospels - Reddit](https://www.reddit.com/r/AcademicBiblical/comments/e2397e/cmv_papias_does_not_speak_of_the_gospels_that_we/)  
 [^8]: [Synoptic Problem - Theopedia](https://www.theopedia.com/synoptic-problem)  
 [^9]: [Synoptic Studies - The Gospel Coalition](https://www.thegospelcoalition.org/themelios/article/synoptic-studies-some-recent-methodological-developments-and-debates/)  
-[^10]: [Doctrinal Writings: The Synoptic Problem - HisService.com](http://www.hisservice.com/helm/wri/mont/synoptic.htm)  
+[^10]: [Doctrinal Writings: The Synoptic Problem - HisService.com](https://tinyurl.com/mwd8yppj)  
 [^11]: [The Synoptic Problem - Things I Believe Project](https://thingsibelieveproject.net/the-synoptic-problem/)  
 [^12]: [Rationale for the Augustinian Hypothesis - Studocu](https://www.studocu.com/en-us/messages/question/3575787/what-are-possible-rationale-for-the-augustinian-hypothesis-and-how-can-it-be-defended)  
 [^13]: [Reconstructing Papias - Vridar](https://vridar.org/2018/04/18/reconstructing-papias-and-a-new-look-at-the-synoptic-problem)  
