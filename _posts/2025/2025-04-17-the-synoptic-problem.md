@@ -1,7 +1,7 @@
 ---
 title: "The Synoptic Problem"
 date: 2025-04-17 11:28:12 -0500
-categories: bliclical-analysis
+categories: biblical-analysis
 tags: [synoptic, q, bible]
 image: /assets/images/synoptic-stained.png
 thumbnail: /assets/images/synoptic-stained-thumb.png
