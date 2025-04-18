@@ -8,47 +8,19 @@
     name="viewport"
     content="width=device-width, user-scalable=no initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
   >
+<meta charset="utf-8">
 
-  {%- capture seo_tags -%}
-    {% seo title=false %}
-  {%- endcapture -%}
-
-  <!-- Setup Open Graph image -->
-
-  {% if page.thumbnail %}
-    {% assign src = page.thumbnail.path | default: page.thumbnail %}
-
-    {% unless src contains '://' %}
-      {%- capture img_url -%}
-        {% include media-url.html src=src subpath=page.media_subpath absolute=true %}
-      {%- endcapture -%}
-
-      {%- capture old_url -%}{{ src | absolute_url }}{%- endcapture -%}
-      {%- capture new_url -%}{{ img_url }}{%- endcapture -%}
-
-      {% assign seo_tags = seo_tags | replace: old_url, new_url %}
-    {% endunless %}
-
-  {% elsif site.social_preview_image %}
-    {%- capture img_url -%}
-      {% include media-url.html src=site.social_preview_image absolute=true %}
-    {%- endcapture -%}
-
-    {%- capture og_image -%}
-      <meta property="og:image" content="{{ img_url }}" />
-    {%- endcapture -%}
-
-    {%- capture twitter_image -%}
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta property="twitter:image" content="{{ img_url }}" />
-    {%- endcapture -%}
-
-    {% assign old_meta_clip = '<meta name="twitter:card" content="summary" />' %}
-    {% assign new_meta_clip = og_image | append: twitter_image %}
-    {% assign seo_tags = seo_tags | replace: old_meta_clip, new_meta_clip %}
-  {% endif %}
-
-  {{ seo_tags }}
+<meta name="description" content="{{ page.description | default: site.description }}">
+<meta property="og:title" content="{{ page.title | default: site.title }}">
+<meta property="og:description" content="{{ page.description | default: site.description }}">
+<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:image" content="{{ page.thumbnail | default: site.social_preview_image | absolute_url }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:image" content="{{ page.thumbnail | default: site.social_preview_image | absolute_url }}">
+<meta property="twitter:title" content="{{ page.title | default: site.title }}">
+<meta name="twitter:site" content="@theksliberal">
 
   <title>
     {%- unless page.layout == 'home' -%}
