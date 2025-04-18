@@ -121,17 +121,6 @@ The work of the Jerusalem School, alongside earlier scholars like William Lockto
 
 The debate underscores how fundamental questions about the origins and development of the gospel tradition remain vibrant areas of scholarly inquiry, with significant implications for our understanding of early Christianity and the historical Jesus.
 
-<div id="disqus_thread"></div>
-<script>
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://theksliberal.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
 ### Further Reading
 - [What are Lukan Priorities?](https://www.lukanpriorities.com/articles/what-are-lukan-priorities)
 - [Reddit – Is Q more likely than Lukan Priority?](https://www.reddit.com/r/AcademicBiblical/comments/agnd07/why_is_the_existence_of_q_more_likely_than/)
