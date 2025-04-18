@@ -3,8 +3,8 @@ title: "A History of Good Friday"
 date: 2025-04-18 00:00:00 -0500
 draft: true
 categories: religion
-thumbnail: /assets/images/good-friday-thumb.png
-image: /assets/images/good-friday.png
+thumbnail: /assets/images/good-friday-alt-thumb.png
+image: /assets/images/good-friday-alt.png
 subtitle: "Tracing the origins, traditions, and evolving meaning of Christianity's most solemn day."
 description: "An exploration of the historical development, liturgical practices, and cultural significance of Good Friday from its earliest observance to the present."
 tags: [good-friday, holy-week, christianity, history]
