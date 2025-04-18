@@ -39,7 +39,8 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/theksliberal # change to your Twitter homepage
-    - https://github.com/ksliberal # change to your GitHub homepage
+    - https://github.com/ksliberal
+    - https://ksliberal.tumblr.com # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -75,7 +76,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: 'goatcounter'
+  provider: goatcounter
 
 # Prefer color scheme setting.
 #
