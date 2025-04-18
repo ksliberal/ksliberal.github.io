@@ -15,8 +15,8 @@
 
   <!-- Setup Open Graph image -->
 
-  {% if page.image %}
-    {% assign src = page.image.path | default: page.image %}
+  {% if page.thumbnail %}
+    {% assign src = page.thumbnail.path | default: page.thumbnail %}
 
     {% unless src contains '://' %}
       {%- capture img_url -%}
