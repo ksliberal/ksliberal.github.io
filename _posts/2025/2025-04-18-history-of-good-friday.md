@@ -78,7 +78,7 @@ Wishing you a profoundly meaningful and fulfilling Good Friday, filled with refl
 
 ### Further Reading
 
-- [A Time to Weep -- On Good Friday Reformed Worship](http://www.reformedworship.org/article/december-1997/time-weep-good-friday)
+- [A Time to Weep -- On Good Friday Reformed Worship](https://www.reformedworship.org/article/december-1997/time-weep-good-friday)
 - [Good Friday Christianity, Easter, Definition, History ... - Britannica](https://www.britannica.com/topic/Good-Friday)
 - [Catholic Festivity on Good Friday, Not Antithetical - His Girl Sunday](https://www.hisgirlsunday.com/post/festivityongoodfriday)
 - [Why Is Good Friday Called Good Friday? HistoryExtra](https://www.historyextra.com/period/general-history/good-friday-facts-why-called/)
