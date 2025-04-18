@@ -73,25 +73,25 @@ The designation of "Good Friday" reflects a profound theologicsal paradox. While
 
 ---
 
+### Further Reading
+
+- [A Time to Weep -- On Good Friday Reformed Worship](http://www.reformedworship.org/article/december-1997/time-weep-good-friday)
+- [Good Friday Christianity, Easter, Definition, History ... - Britannica](https://www.britannica.com/topic/Good-Friday)
+- [Catholic Festivity on Good Friday, Not Antithetical - His Girl Sunday](https://www.hisgirlsunday.com/post/festivityongoodfriday)
+- [Why Is Good Friday Called Good Friday? HistoryExtra](https://www.historyextra.com/period/general-history/good-friday-facts-why-called/)
+- [The Theology of the Novus Ordo Good Friday Liturgy](https://www.newliturgicalmovement.org/2017/04/the-theology-of-novus-ordo-good-friday.html)
+- [The Origins and Practices of Holidays: Good Friday - Boston Public ...](https://www.bpl.org/blogs/post/the-origins-and-practices-of-holidays-good-friday/)
+- [Great and Holy Friday - Greek Orthodox Archdiocese of America](https://www.goarch.org/holyfriday-learn)
+- [Alternative Readings for Good Friday - Maryland Episcopalian](https://marylandepiscopalian.org/2025/03/05/alternative-readings-for-good-friday-2025/)
+- [Good Friday - Easter / Lent - Catholic Online](https://www.catholic.org/lent/friday.php)
+- [The Good Friday (PART 1) A Historical, Liturgical and Theological ...](https://www.academia.edu/95227347/The_Good_Friday_PART_1_A_Historical_Liturgical_and_Theological_Investigation)
+- [Contemplating Good Friday and the Annunciation Catholic Culture](https://www.catholicculture.org/commentary/contemplating-good-friday-and-annunciation/)
+- [When did Good Friday begin to be observed? - eBible](https://ebible.com/questions/8-when-did-good-friday-begin-to-be-observed?highlight_komment_id=0&question_id=8)
+- [What is the first recorded observation of Good Friday?](https://christianity.stackexchange.com/questions/50655/what-is-the-first-recorded-observation-of-good-friday)
+
 ### Sources
 
 [^1]: [The Liturgical Home: Good Friday - Anglican Compass](https://anglicancompass.com/the-liturgical-home-good-friday/)
 [^2]: [Origin of the term "Good Friday" - Logos Community](https://community.logos.com/discussion/48064/origin-of-the-term-good-friday)s
 [^3]: [Good Friday - Wikipedia](https://en.wikipedia.org/wiki/Good_Friday)
 [^4]: [CATHOLIC ENCYCLOPEDIA: Good Friday - New Advent](https://www.newadvent.org/cathen/06643a.htm)
-
-### Further Reading
-
-- [A Time to Weep -- On Good Friday | Reformed Worship](http://www.reformedworship.org/article/december-1997/time-weep-good-friday)
-- [Good Friday | Christianity, Easter, Definition, History ... - Britannica](https://www.britannica.com/topic/Good-Friday)
-- [Catholic Festivity on Good Friday, Not Antithetical - His Girl Sunday](https://www.hisgirlsunday.com/post/festivityongoodfriday)
-- [Why Is Good Friday Called Good Friday? | HistoryExtra](https://www.historyextra.com/period/general-history/good-friday-facts-why-called/)
-- [The Theology of the Novus Ordo Good Friday Liturgy](https://www.newliturgicalmovement.org/2017/04/the-theology-of-novus-ordo-good-friday.html)
-- [The Origins and Practices of Holidays: Good Friday | Boston Public ...](https://www.bpl.org/blogs/post/the-origins-and-practices-of-holidays-good-friday/)
-- [Great and Holy Friday - Greek Orthodox Archdiocese of America](https://www.goarch.org/holyfriday-learn)
-- [Alternative Readings for Good Friday - Maryland Episcopalian](https://marylandepiscopalian.org/2025/03/05/alternative-readings-for-good-friday-2025/)
-- [Good Friday - Easter / Lent - Catholic Online](https://www.catholic.org/lent/friday.php)
-- [The Good Friday (PART 1) A Historical, Liturgical and Theological ...](https://www.academia.edu/95227347/The_Good_Friday_PART_1_A_Historical_Liturgical_and_Theological_Investigation)
-- [Contemplating Good Friday and the Annunciation | Catholic Culture](https://www.catholicculture.org/commentary/contemplating-good-friday-and-annunciation/)
-- [When did Good Friday begin to be observed? - eBible](https://ebible.com/questions/8-when-did-good-friday-begin-to-be-observed?highlight_komment_id=0&question_id=8)
-- [What is the first recorded observation of Good Friday?](https://christianity.stackexchange.com/questions/50655/what-is-the-first-recorded-observation-of-good-friday)
