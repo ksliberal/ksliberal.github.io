@@ -14,7 +14,7 @@ The Synoptic Problem, explaining the literary relationships among Matthew, Mark,
 
 ## Origins and Definition of the Farrer Hypothesis
 
-The Farrer Hypothesis, proposed by Austin Farrer in 1955 and developed by Michael Goulder and Mark Goodacre, posits that Mark was written first, Matthew used Mark, and Luke used both, eliminating the need for a hypothetical Q document.[^1][^2][^3][^4] This framework explains the triple tradition (material in all three gospels) and double tradition (material shared by Matthew and Luke) through direct literary dependence, honoring Marcan priority.[^3][^4]
+The Farrer Hypothesis, introduced by Austin Farrer in his 1955 paper *On Dispensing With Q* and developed by Michael Goulder and Mark Goodacre, posits that Mark was written first, Matthew used Mark, and Luke used both, eliminating the need for a hypothetical Q document.[^1][^2][^3][^4] This framework explains the triple tradition (material in all three gospels) and double tradition (material shared by Matthew and Luke) through direct literary dependence, honoring Marcan priority.[^3][^4]
 
 ### Comparison of Farrer and Two-Source Hypotheses
 
@@ -50,7 +50,7 @@ Critics question why Luke omits Matthean material like the Lord’s Prayer or Be
 
 ### Primitive Nature of Luke’s Text
 
-Some scholars argue Luke’s text is more primitive, suggesting Lukan priority over Farrer’s chronology.[^6] Luke’s shorter, less theologically developed parables contrast with Matthew’s expanded versions.[^6]
+Some scholars argue Luke’s text is more primitive, suggesting Lukan priority over Farrer’s chronology.[^6] Luke’s shorter, less elaborated parables (using fewer Greek words than Matthew or Mark) may preserve an earlier tradition.[^6]
 
 ### Alternative Explanations for Minor Agreements
 
@@ -88,10 +88,13 @@ The Farrer Hypothesis challenges the Two-Source Hypothesis with a simpler model,
 For readers interested in exploring the Farrer Hypothesis further, the following resources offer high-quality, scholarly insights into its origins, evidence, and reception:
 
 - [Relating the Gospels: Memory, Imitation and the Farrer Hypothesis by Eric Eve](https://www.bloomsbury.com/us/relating-the-gospels-9780567681102/): A peer-reviewed book exploring the Farrer Hypothesis through memory and imitation, arguing for Luke’s use of Matthew.
-- [Solving the Synoptic Puzzle: Introducing the Case for the Farrer Hypothesis by Eric Eve](https://www.wipfandstock.com/9781725283862|solving-the-synoptic-puzzle/): A scholarly introduction to the Farrer Hypothesis, detailing its evidence and challenges to Q.
+- [Solving the Synoptic Puzzle: Introducing the Case for the Farrer Hypothesis by Eric Eve](https://www.wipfandstock.com/9781725283862/solving-the-synoptic-puzzle/): A scholarly introduction to the Farrer Hypothesis, detailing its evidence and challenges to Q.
 - [The Case Against Q: Studies in Markan Priority and the Synoptic Problem by Mark Goodacre](https://www.bloomsbury.com/us/case-against-q-9781563383342/): A seminal, peer-reviewed defense of the Farrer Hypothesis, focusing on editorial fatigue and minor agreements.
 - [The Synoptic Problem: A Way Through the Maze by Mark Goodacre](https://www.bloomsbury.com/us/synoptic-problem-9780567080561/): An accessible, peer-reviewed introduction to the Synoptic Problem, advocating for the Farrer Hypothesis.
 - [The Synoptic Gospels: A Careful Comparison by Robert H. Stein](https://www.bakeracademic.com/products/the-synoptic-gospels-9780801020155): A peer-reviewed analysis of Synoptic literary relationships, engaging with the Farrer Hypothesis and textual evidence.
+- [The Synoptic Problem: Four Views edited by Stanley E. Porter and Bryan R. Dyer](https://www.bakeracademic.com/products/the-synoptic-problem-9780801049507): A peer-reviewed volume presenting four perspectives, including a defense of the Farrer Hypothesis.
+- [Q or Not Q? The So-Called Triple, Double, and Single Traditions in the Synoptic Gospels by Bart D. Ehrman](https://www.peterlang.com/view/title/61412): A scholarly critique of the Q hypothesis, engaging with Farrer’s alternative model.
+- [The Synoptic Problem and Statistics by Andris Abakuks](https://www.crcpress.com/The-Synoptic-Problem-and-Statistics/Abakuks/p/book/9781466572010): A peer-reviewed statistical analysis of Synoptic relationships, supporting Farrer’s literary dependence.
 
 ## Sources
 
@@ -101,6 +104,6 @@ For readers interested in exploring the Farrer Hypothesis further, the following
 [^4]: [The Case Against Q: Studies in Markan Priority and the Synoptic Problem by Mark Goodacre](https://www.bloomsbury.com/us/case-against-q-9781563383342/)
 [^5]: [Q on the Chopping Block – UPenn](https://www.sas.upenn.edu/~cbogs/synopticproblem.pdf)
 [^6]: [The Synoptic Problem: Four Views edited by Stanley E. Porter and Bryan R. Dyer](https://www.bakeracademic.com/products/the-synoptic-problem-9780801049507)
-[^7]: [Credibility of Matthew – Integrity Syndicate](https://integritysyndicate.com/the-credibility-of-matthew-pt-1-introductory-notes-and-farrer-theory/)
+[^7]: [The Synoptic Problem: A Critical Introduction by Robert H. Stein](https://www.wiley.com/en-us/The+Synoptic+Problem%3A+A+Critical+Introduction-p-9780631172826)
 [^8]: [Solving the Synoptic Puzzle: Introducing the Case for the Farrer Hypothesis by Eric Eve](https://www.wipfandstock.com/9781725283862/solving-the-synoptic-puzzle/)
 [^9]: [Farrer Theory Ignored – NT Blog](https://ntweblog.blogspot.com/2010/09/farrer-theory-ignored-yet-another-new.html)
