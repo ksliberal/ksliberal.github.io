@@ -6,7 +6,7 @@ categories: biblical-analysis
 image: /assets/images/luke.png
 thumbnail: /assets/images/luke-thumb.png
 subtitle: "A critical examination of the Synoptic Gospels and the evidence supporting Lukan Priority."
-description: "An in-depth analysis of the Synoptic Gospels, challenging the dominant Markan Priority theory."
+description: "A critical examination of the Synoptic Gospels and the evidence supporting Lukan Priority."
 ---
 
 The theory of Lukan Priority posits that the Gospel of Luke was written before the other Synoptic Gospels (Mark and Matthew), challenging the more widely accepted Markan Priority theory. This analysis explores Lukan Priority’s evidence, counterarguments, and scholarly perspectives, presenting a compelling alternative to Markan Priority with linguistic, statistical, and structural support for Luke’s primacy.
