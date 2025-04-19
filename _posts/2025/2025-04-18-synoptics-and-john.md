@@ -1,7 +1,6 @@
 ---
 title: "The Synoptics and John: Understanding the Distinctiveness of the Fourth Gospel"
-date: 2025-04-18 00:00:00 -0500
-draft: true
+date: 2025-04-19 11:00:00 -0500
 categories: gospel-studies
 subtitle: "Why John's Gospel stands apart from Matthew, Mark, and Luke."
 description: "An exploration of the unique literary, theological, and historical features of the Gospel of John compared to the Synoptic Gospels."
@@ -11,7 +10,7 @@ thumbnail: /assets/images/john-thumb.png
 ---
 <br />
 
-The Gospel of John stands apart from Matthew, Mark, and Luke (collectively known as the Synoptic Gospels) in numerous profound ways. While all four canonical gospels tell the story of Jesus Christ, John's account differs dramatically in style, content, structure, and theological emphasis. This divergence has led to centuries of scholarly debate about authorship, dating, and potential outside influences on this enigmatic text. This report examines these differences, explores questions of authorship and dating, and investigates possible Gnostic influences on John's Gospel.
+The Gospel of John stands apart from Matthew, Mark, and Luke (collectively known as the Synoptic Gospels) in numerous profound ways. While all four canonical gospels tell the story of Jesus Christ, John's account differs dramatically in style, content, structure, and theological emphasis. This divergence has led to centuries of scholarly debate about authorship, dating, and potential outside influences on this enigmatic text. Here we will examine these differences, explore questions of authorship and dating, and investigate possible Gnostic influences on John's Gospel.
 
 ## Fundamental Differences in Style and Structure
 
@@ -19,17 +18,18 @@ The Gospel of John stands apart from Matthew, Mark, and Luke (collectively known
 
 The difference between John and the Synoptics is immediately apparent in their openings. While Mark begins with Jesus' adult ministry, and Matthew and Luke include birth narratives and genealogies, John starts with a cosmic prologue: "In the beginning was the Word, and the Word was with God, and the Word was God" (John 1:1, NKJV)[^3]. This philosophical opening resembles more closely a Greek philosophical treatise than the historical narratives of the Synoptics.
 
-John also presents a three-year ministry of Jesus with multiple visits to Jerusalem, whereas the Synoptics portray what appears to be a single-year ministry culminating in one climactic visit to Jerusalem.[^2][^3]. John's narrative is structured around Jewish festivals, providing a distinctive chronological framework absent from the other gospels[3].
+John also presents a three-year ministry of Jesus with multiple visits to Jerusalem, whereas the Synoptics portray what appears to be a single-year ministry culminating in one climactic visit to Jerusalem.[^2][^3]. John's narrative is structured around Jewish festivals, providing a distinctive chronological framework absent from the other gospels[^3].
 
 ### Literary Style and Presentation
 
-The literary approach of John differs markedly from the Synoptics. Where the Synoptics feature parables, brief sayings, and chreia (pronouncement stories), John presents extended discourses and dialogues.[^2][^3]. As one scholar notes, "In terms of style, John presents Jesus' teachings in extended speeches rather than pithy sayings."[^6] 
+The literary approach of John differs markedly from the Synoptics. Where the Synoptics feature parables, brief sayings, and chreia (pronouncement stories), John presents extended discourses and dialogues.[^2][^3]. As one scholar notes, "In terms of style, John presents Jesus' teachings in extended speeches rather than pithy sayings."[^6]
 
 John employs distinctive dualistic language throughout, creating sharp contrasts between light/darkness, truth/lie, belief/rejection—vocabulary that is characteristic of John but largely absent from the other gospels[3]. This dualistic framework shapes the entire narrative structure of the Fourth Gospel.
 
 ### Content Variations
 
 The content divergence between John and the Synoptics is substantial. The following significant elements appear only in John:
+
 - The turning of water into wine at Cana (John 2:1-11)
 - The conversation with Nicodemus (John 3:1-21)
 - The Samaritan woman at the well (John 4:1-42)
@@ -38,6 +38,7 @@ The content divergence between John and the Synoptics is substantial. The follow
 - Thomas's doubt (John 20:24-29)
 
 Conversely, John omits numerous elements central to the Synoptic tradition, including:
+
 - The baptism of Jesus (though John alludes to it)
 - The temptation in the wilderness
 - The transfiguration
@@ -56,7 +57,7 @@ Traditionally, the church has attributed the Gospel of John to the Apostle John,
 
 ### Contemporary Scholarly Perspectives
 
-Despite this traditional view, most contemporary critical scholars question Johannine authorship. According to Wikipedia, "Although authorship of all of these works has traditionally been attributed to John the Apostle, only a minority of contemporary scholars believe he composed the gospel, and most theorize that he wrote none of them."[^1] 
+Despite this traditional view, most contemporary critical scholars question Johannine authorship. According to Wikipedia, "Although authorship of all of these works has traditionally been attributed to John the Apostle, only a minority of contemporary scholars believe he composed the gospel, and most theorize that he wrote none of them."[^1]
 
 The scholarly consensus suggests the gospel emerged from what is called the "Johannine community," possibly located in Ephesus or Damascus around 90-110 CE.[^1] This community may have preserved and developed traditions associated with the Apostle John, even if he was not the direct author.
 
@@ -98,7 +99,7 @@ Several elements in John have been identified as potentially reflecting Gnostic 
 
 3. **Secret Knowledge**: Some passages suggest special knowledge given only to initiated believers, reminiscent of Gnostic claims to secret revelation.[^5][^8]
 
-4. **Terminology**: Some researchers have identified terms in John that later appeared in Gnostic texts. As one source claims: "The Gnostics believed that the Apostle John was disclosing a different theological paradigm which involved the theme of an unknown God and hierarchy."[^12]
+4. **Terminology**: Some researchers have identified terms in John that later appeared in Gnostic texts. As one source claims: "The Gnostics believed that the Apostle John was disclosing a different theological paradigm which involved the theme of an unknown God and hierarchy."[^7][^12]
 
 ### Scholarly Debate
 
