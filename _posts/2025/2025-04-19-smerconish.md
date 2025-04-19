@@ -1,7 +1,6 @@
 ---
 title: "Stuck in the Middle With Michael Smerconish"
 date: 2025-04-19 08:27:59 -0500
-draft: true
 categories: media, commentary
 subtitle: "A Reflection on a Decade of Fandom, and Why We Need His Voice Now More Than Ever"
 description: "A personal reflection on Michael Smerconish's unique role in American media, and why his independent voice is more vital than ever."
@@ -42,11 +41,11 @@ And then, there are the **[cartoons](https://www.smerconish.com/cartoon-gallery/
 
 ## The Mingle Project
 
-Then there’s **[The Mingle Project](https://www.smerconish.com/mingle-project/)**—Michael Smerconish’s bold experiment in reviving civic engagement, one conversation at a time. It’s a growing network of people committed to leaving the partisan echo chambers behind and actually *talking*—civilly, locally, meaningfully.
+Then there’s **[The Mingle Project](https://www.smerconish.com/mingle-project/)** Smerconish’s bold experiment in reviving civic engagement, one conversation at a time. It’s a growing network of people committed to leaving the partisan echo chambers behind and actually *talking*—civilly, locally, meaningfully.
 
 At its heart, Mingle is about one thing: **bringing people together across divides**. It might mean joining a **Mingle Meetup**, an in-person gathering where folks from all walks of life and every point on the political compass sit down and work through the news of the day without shouting each other down.
 
-Mingle isn’t just another brand extension—it’s a real attempt at grassroots bridge-building. Through it, Michael doesn’t just broadcast ideas—he builds infrastructure for better discourse. 
+Mingle isn’t just another brand extension—it’s a real attempt at grassroots bridge-building. Through it, Smerconish doesn’t just broadcast ideas—he builds infrastructure for better discourse. 
 
 We don’t just need new policies. We need new postures. Mingle is one of the few projects actually trying to cultivate that… not online rage, not cable loyalty—just actual civic muscle memory. That’s the experiment. And for many of us, it’s working.
 
@@ -66,7 +65,7 @@ For those of us trying to stay engaged without losing our minds, **Smerconish an
 
 Look, you don’t need me to tell you that American politics has become a toxic mess. But amid the firestorms and echo chambers, Smerconish has kept a steady hand on the mic. He hasn’t sold out, flamed out, or opted out. He’s stayed right there… in the middle. Stubborn. Curious. Principled.
 
-That middle space has become radioactive in our current climate. To some, it looks like weakness. But to those of us still committed to truth over team, that middle ground feels like the last sane place left. And Michael—every day—stakes out that ground and says: *you’re not alone here.*
+That middle space has become radioactive in our current climate. To some, it looks like weakness. But to those of us still committed to truth over team, that middle ground feels like the last sane place left. And Smerconish—every day—stakes out that ground and says: *you’re not alone here.*
 
 So yes, I’m a fan. A long-time listener. And maybe more importantly… a better thinker because of him.
 
