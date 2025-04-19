@@ -22,22 +22,15 @@ John’s literary style, featuring extended discourses and dialogues, contrasts 
 
 ### Content Variations
 
-John includes unique elements absent from the Synoptics:
-- Turning water into wine at Cana (John 2:1-11)
-- Conversation with Nicodemus (John 3:1-21)
-- Samaritan woman at the well (John 4:1-42)
-- Raising of Lazarus (John 11:1-44)
-- Washing of disciples’ feet (John 13:1-17)
-- Thomas’s doubt (John 20:24-29)
-
-Conversely, John omits key Synoptic events:
-- Jesus’ baptism (though alluded to)
-- Temptation in the wilderness
-- Transfiguration
-- Exorcisms
-- Institution of the Lord’s Supper
-- Sermon on the Mount
-- Parables.[^2][^1]
+| **Content in John (Unique)**                     | **Content Omitted in John (Synoptic)**         |
+|-------------------------------------------------|-----------------------------------------------|
+| Turning water into wine at Cana (John 2:1-11)   | Jesus’ baptism (though alluded to)            |
+| Conversation with Nicodemus (John 3:1-21)       | Temptation in the wilderness                  |
+| Samaritan woman at the well (John 4:1-42)       | Transfiguration                               |
+| Raising of Lazarus (John 11:1-44)               | Exorcisms                                     |
+| Washing of disciples’ feet (John 13:1-17)       | Institution of the Lord’s Supper              |
+| Thomas’s doubt (John 20:24-29)                  | Sermon on the Mount                           |
+|                                                 | Parables [^2][^1]                                      |
 
 According to scholars, “In John, Jesus performs ‘signs’ revealing his divine identity, not ‘miracles’ as in the Synoptics, and most consider John devoid of parables.”[^2]
 
