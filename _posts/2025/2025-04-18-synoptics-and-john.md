@@ -115,10 +115,9 @@ For readers interested in exploring the Gospel of John further, the following re
 
 - [Differences Between John and the Synoptics – The Bart Ehrman Blog](https://ehrmanblog.org/differences-between-john-and-the-synoptics/): Bart Ehrman, a leading New Testament scholar, analyzes the stylistic, structural, and theological differences between John and the Synoptic Gospels.
 - [Contrasts between John and the Synoptics – Catholic Resources](https://catholic-resources.org/John/Synoptic-Differences.htm): Authored by Felix Just, S.J., this academic resource details differences in content, style, and theology between John and the Synoptics.
-- [The Gospel of John: A Commentary by Craig S. Keener](https://www.eerdmans.com/Products/4684/The-Gospel-of-John.aspx): A comprehensive, peer-reviewed commentary exploring John’s historical context, literary style, and theology.
-- [John’s Gospel and Intimations of Apocalypse by Paul A. Rainbow](https://www.bloomsbury.com/us/johns-gospel-and-intimations-of-apocalypse-9780567656650/): A scholarly study of John’s eschatology and its subtle apocalyptic themes, contrasting with Synoptic eschatology.
-- [The Gospel of John in the Light of the Old Testament by Claus Westermann](https://www.amazon.com/Gospel-John-Light-Old-Testament/dp/0801047358): An academic analysis of John’s Jewish roots and Old Testament influences, highlighting its theological context.
-- [The Gospel of John and Christian Theology edited by Richard Bauckham and Carl Mosser](https://www.eerdmans.com/Products/4458/The-Gospel-of-John-and-Christian-Theology.aspx): A collection of scholarly essays on John’s theology, authorship, and early Christian context.
+- [The Gospel of John: A Commentary by Craig S. Keener](https://www.amazon.com/Gospel-John-One-Two/dp/0801046750): A comprehensive, peer-reviewed commentary exploring John’s historical context, literary style, and theology.
+- [The Gospel of John in the Light of the Old Testament by Claus Westermann](https://www.amazon.com/Gospel-John-Light-Old-Testament/dp/1565632370): An academic analysis of John’s Jewish roots and Old Testament influences, highlighting its theological context.
+- [The Gospel of John and Christian Theology edited by Richard Bauckham and Carl Mosser](https://www.amazon.com/Gospel-John-Christian-Theology/dp/0802827179): A collection of scholarly essays on John’s theology, authorship, and early Christian context.
 - [John: A Commentary by Marianne Meye Thompson](https://www.wjkbooks.com/Products/0664221114/john.aspx): A detailed, peer-reviewed exegesis of John’s literary structure, theology, and differences from the Synoptics.
 
 ## Sources
@@ -131,10 +130,10 @@ For readers interested in exploring the Gospel of John further, the following re
 [^6]: [John's Gospel May Have Been Last, But It Wasn't Late – Cold Case Christianity](https://coldcasechristianity.com/writings/johns-gospel-may-have-been-last-but-it-wasnt-late/)
 [^7]: [Why Date the Gospels after 70 CE? – The Bart Ehrman Blog](https://ehrmanblog.org/why-date-the-gospels-after-70-ce/)
 [^8]: [Dating the authorship of the NT books and epistles? – Reddit](https://www.reddit.com/r/AcademicBiblical/comments/1hs2n6n/dating_the_authorship_of_the_nt_books_and_epistles/)
-[^9]: [John: An Introduction and Commentary by Colin G. Kruse](https://www.ivpress.com/john-tyndale-new-testament-commentaries)
-[^10]: [The Gospel of John and Gnosticism by Elaine Pagels](https://www.hup.harvard.edu/catalog.php?isbn=9780674239401)
-[^11]: [The Fourth Gospel: Tales of a Jewish Mystic by John Shelby Spong](https://www.harpercollins.com/products/the-fourth-gospel-john-shelby-spong)
-[^12]: [The Johannine Literature by Raymond E. Brown](https://www.amazon.com/Johannine-Literature-Raymond-E-Brown/dp/0814658067)
-[^13]: [The Gospel of John: A Theological Commentary by Herman Ridderbos](https://www.eerdmans.com/Products/4685/The-Gospel-of-John.aspx)
+[^9]: [John: An Introduction and Commentary by Colin G. Kruse](https://www.amazon.com/Gospel-According-John-Introduction-Commentaries/dp/0802827713)
+[^10]: [The Johannine Gospel in Gnostic Exegesis by Elaine Pagels](https://www.barnesandnoble.com/w/the-johannine-gospel-in-gnostic-exegesis-elaine-pagels/1112654082)
+[^11]: [The Fourth Gospel: Tales of a Jewish Mystic by John Shelby Spong](https://www.amazon.com/Fourth-Gospel-Tales-Jewish-Mystic/dp/0062011308)
+[^12]: [The Johannine Literature by Raymond E. Brown](https://yalebooks.yale.edu/book/9780300140279/the-epistles-of-john/)
+[^13]: [The Gospel according John: A Theological Commentary by Herman Ridderbos](https://www.amazon.com/Gospel-John-Theological-Commentary/dp/0802804535)
 [^14]: [John’s Response to Proto-Gnosticism in His First Epistle – Lexham Press Blog](https://blog.lexhampress.com/2015/06/04/201563johns-response-to-proto-gnosticism-in-his-first-epistle/)
 [^15]: [The Relationship Between John and the Synoptics – Danny Zacharias](https://www.dannyzacharias.net/blog/2016/8/10/the-relationship-between-john-and-the-synoptics)
