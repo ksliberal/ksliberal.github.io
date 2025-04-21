@@ -1,7 +1,7 @@
 ---
 title: "Stuck in the Middle With Michael Smerconish"
 date: 2025-04-19 08:27:59 -0500
-categories: media, commentary
+categories: media
 subtitle: "A Reflection on a Decade of Fandom, and Why We Need His Voice Now More Than Ever"
 description: "A personal reflection on Michael Smerconish's unique role in American media, and why his independent voice is more vital than ever."
 image: /assets/images/smerconish.png
