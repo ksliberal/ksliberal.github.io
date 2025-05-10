@@ -74,6 +74,8 @@ For American workers and producers, the deal offers marginal benefits obscured b
 
 The EU’s impending countermeasures and China’s entrenched tariffs signal that America’s tariff-first approach may yield diminishing returns, leaving US exporters increasingly isolated in a fragmented global market.
 
+TLDR for Jason… you're wrong. -Lib
+
 ---
 
 ### Sources
